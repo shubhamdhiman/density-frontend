@@ -4,6 +4,7 @@ import logoColor from '../../assets/icons/logoColor.png'
 function Navigation() {
     return (
         <NavigationStyle>
+            <div style={{width:'80%', display:'flex',justifyContent:'space-between'}}>
             <img src={logoColor} alt="density" />
             <NavInner>
                 <NavUl>
@@ -14,6 +15,7 @@ function Navigation() {
                 </NavUl>
                 <NavButton>Trade Now</NavButton>
             </NavInner>
+            </div>
         </NavigationStyle>
     )
 }

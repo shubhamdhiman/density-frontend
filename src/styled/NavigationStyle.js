@@ -7,8 +7,8 @@ export const NavigationStyle = styled.div`
     background-color:black;
     display:flex;
     align-items:center;
-    justify-content:space-between;
-    padding:0 8rem;
+    justify-content:center;
+    // padding:0 8rem;
 `
 export const NavInner = styled.div`
     display:flex;
