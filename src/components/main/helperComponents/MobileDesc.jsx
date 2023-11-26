@@ -31,9 +31,9 @@ function MobileDesc() {
         </div>
         <div style={{display:'flex',flexDirection:'column',justifyContent:'center'}}>
             <img style={{width:'120px'}} src={EasyMoneyLeft} alt='img'/>
-            <p style={{fontSize:'2rem',fontWeight:'bold',color:'white',margin:'0'}}>Create an Account</p>
-            <p style={{fontSize:'1.2rem',color:'white',margin:'.5rem 0 0 0',fontWeight:'300'}}>Register & Complete your </p>
-            <p style={{fontSize:'1.2rem',color:'white',marginBottom:'2rem',fontWeight:'300'}}>Verification in less than 2 minutes</p>
+            <p style={{fontSize:'2rem',fontWeight:'bold',color:'white',margin:'0'}}>Deposit Funds</p>
+            <p style={{fontSize:'1.2rem',color:'white',margin:'.5rem 0 0 0',fontWeight:'300'}}>Add funds quickly using a variety  </p>
+            <p style={{fontSize:'1.2rem',color:'white',marginBottom:'2rem',fontWeight:'300'}}>of payment methods</p>
             <NavButton>Trade Now</NavButton>
         </div>
 
@@ -45,9 +45,9 @@ function MobileDesc() {
         </div>
         <div style={{display:'flex',flexDirection:'column',justifyContent:'center'}}>
             <img style={{width:'120px'}} src={EasyMoneyRight} alt='img'/>
-            <p style={{fontSize:'2rem',fontWeight:'bold',color:'white',margin:'0'}}>Create an Account</p>
-            <p style={{fontSize:'1.2rem',color:'white',margin:'.5rem 0 0 0',fontWeight:'300'}}>Register & Complete your </p>
-            <p style={{fontSize:'1.2rem',color:'white',marginBottom:'2rem',fontWeight:'300'}}>Verification in less than 2 minutes</p>
+            <p style={{fontSize:'2rem',fontWeight:'bold',color:'white',margin:'0'}}>Become a Trader</p>
+            <p style={{fontSize:'1.2rem',color:'white',margin:'.5rem 0 0 0',fontWeight:'300'}}>Choose Your Trading Pair & Trade</p>
+            <p style={{fontSize:'1.2rem',color:'white',marginBottom:'2rem',fontWeight:'300'}}>Seamlessly</p>
             <NavButton>Trade Now</NavButton>
         </div>
 
