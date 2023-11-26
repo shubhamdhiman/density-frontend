@@ -8,7 +8,6 @@ export const NavigationStyle = styled.div`
     display:flex;
     align-items:center;
     justify-content:center;
-    // padding:0 8rem;
 `
 export const NavInner = styled.div`
     display:flex;
@@ -28,7 +27,6 @@ export const NavLi = styled.li`
     display:flex;
     align-items:center;
     margin:0;
-    font-family: 'Neurial Grotesk', sans-serif;
     color: #FCFCFC;
     font-size: 14px;
     font-style: normal;
