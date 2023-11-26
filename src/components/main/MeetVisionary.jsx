@@ -4,7 +4,7 @@ import { TradeMoreHeading, TradeMoreInner, TradeMoreSpan } from '../../styled/Tr
 import {TradeMoreContainer, StartSmallContainer, StartSmallBoxes, StartSmallBox, StartSmallBoxH, StartSmallBoxSH, TradeTogetherContainer } from '../../styled/MeetVisionaryStyles'
 import VisionaryLeft from '../../assets/icons/visionary/VisionaryLeft.png'
 import VisionaryCenter from '../../assets/icons/visionary/VisionaryCenter.png'
-import VisionaryRight from '../../assets/icons/visionary/VisionaryRight.png'
+import VisionaryRight from '../../assets/icons/visionary/VisionaryRIght.png'
 function MeetVisionary() {
   return (
     <TradeTogetherContainer>
