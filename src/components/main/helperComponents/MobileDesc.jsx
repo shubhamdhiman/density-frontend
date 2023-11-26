@@ -27,7 +27,7 @@ function MobileDesc() {
       <div style={{display:'flex',justifyContent:'space-between',padding:'10rem 0'}}>
         <div style={{position:'relative'}}>
             <img  src={PhoneBackgroundSmall} alt='img' />
-            <img style={{position:'absolute',top:'50%',left:'50%',transform:'translate(-50%,-50%)'}} src={PhoneLeft} alt='img' />
+            <img style={{position:'absolute',top:'48%',left:'50%',transform:'translate(-50%,-50%)'}} src={PhoneLeft} alt='img' />
         </div>
         <div style={{display:'flex',flexDirection:'column',justifyContent:'center'}}>
             <img style={{width:'120px'}} src={EasyMoneyLeft} alt='img'/>
@@ -41,7 +41,7 @@ function MobileDesc() {
       <div style={{display:'flex',justifyContent:'space-between'}}>
         <div style={{position:'relative'}}>
             <img  src={PhoneBackgroundSmall} alt='img' />
-            <img style={{position:'absolute',top:'50%',left:'50%',transform:'translate(-50%,-50%)'}} src={PhoneRight} alt='img' />
+            <img style={{position:'absolute',top:'48%',left:'50%',transform:'translate(-50%,-50%)'}} src={PhoneRight} alt='img' />
         </div>
         <div style={{display:'flex',flexDirection:'column',justifyContent:'center'}}>
             <img style={{width:'120px'}} src={EasyMoneyRight} alt='img'/>
