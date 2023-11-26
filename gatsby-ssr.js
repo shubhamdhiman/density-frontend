@@ -3,7 +3,7 @@
  *
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-ssr/
  */
-
+// import './src/components/global.css';
 /**
  * @type {import('gatsby').GatsbySSR['onRenderBody']}
  */
