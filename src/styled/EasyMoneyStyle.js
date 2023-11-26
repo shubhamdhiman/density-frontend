@@ -21,7 +21,7 @@ export const StartSmallContainer=styled.div`
     padding-top:4rem
 `
 export const StartSmallBox=styled.div`
-    width:30%;
+    width:26%;
     background-color:#1b1b1b;
     padding:2rem 1.5rem;
 `

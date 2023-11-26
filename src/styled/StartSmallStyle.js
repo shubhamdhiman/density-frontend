@@ -20,7 +20,7 @@ export const StartSmallBoxes=styled.div`
     padding-top:4rem
 `
 export const StartSmallBox=styled.div`
-    width:45%;
+    width:42%;
     background-color:#f2f2f2;
     padding:3rem 2rem;
 `

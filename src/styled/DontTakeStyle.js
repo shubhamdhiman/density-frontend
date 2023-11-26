@@ -23,7 +23,7 @@ width:80%;
 `
 export const StartSmallBox=styled.div`
 position:relative;
-    width:30%;
+    width:29%;
     background-color:#f2f2f2;
     padding:2rem 1.5rem;
 `
