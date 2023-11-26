@@ -17,7 +17,7 @@ function ExploreMarkets() {
           <MainSubHeading>Search for your favorite coins and stay ahead of the market</MainSubHeading>
         </ExploreMarketsInnerS>
         <ExploreMarketImageCont>
-          <img style={{margin:'0'}} src={ExploreTradeGraph} alt="image" />
+          <img style={{margin:'0',height:'650px'}} src={ExploreTradeGraph} alt="image" />
           <img style={{marginTop:'-100px'}} src={ExploreBottomImg} alt="image" />
         </ExploreMarketImageCont>
         <NavButton>Explore Markets</NavButton>

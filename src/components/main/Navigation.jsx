@@ -5,7 +5,7 @@ function Navigation() {
     return (
         <NavigationStyle>
             <div style={{width:'80%', display:'flex',justifyContent:'space-between'}}>
-            <img src={logoColor} alt="density" />
+            <img style={{height:'30px'}} src={logoColor} alt="density" />
             <NavInner>
                 <NavUl>
                     <NavLi>Career</NavLi>

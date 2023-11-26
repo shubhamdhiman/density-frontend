@@ -16,6 +16,7 @@ font-weight: 700;
 line-height: 76.882px; /* 106.78% */
 letter-spacing: -2.097px;
 min-width:${(props)=>(props.width?props.width:"")};
+margin:0;
 `
 export const TradeMoreInner = styled.div`
 

@@ -52,4 +52,5 @@ font-style: normal;
 font-weight: 300;
 line-height: normal;
 text-transform: capitalize;
+margin-top:2rem;
 `
