@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const NumbersAchievedS = styled.div`
-    width:100%;
+    width:80%;
     display:flex;
     justify-content:center;
     background-color:black;
